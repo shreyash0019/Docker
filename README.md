@@ -33,9 +33,6 @@ You can view the live demo by visiting the project repository.
 - `style.css`: CSS file that styles the navigation bar.
 - `main.js`: JavaScript file for handling animations and interactions (uses GSAP).
 
-## Screenshots
-
-![Docker Navigation Bar Screenshot](screenshot.png)
 
 ## Contributing
 
