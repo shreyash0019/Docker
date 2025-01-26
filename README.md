@@ -1,6 +1,6 @@
-# Apple-Style Docker Navigation Bar
+# Docker Navigation Bar
 
-This is an Apple-style Docker navigation bar, created using HTML, CSS, and JavaScript. It mimics the appearance of the macOS dock navigation bar and can be used to display icons for different applications.
+This is an  Docker navigation bar, created using HTML, CSS, and JavaScript. It mimics the appearance of the macOS dock navigation bar and can be used to display icons for different applications.
 
 ## Features
 
